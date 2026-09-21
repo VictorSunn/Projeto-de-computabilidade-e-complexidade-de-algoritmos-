@@ -115,5 +115,3 @@
 - [x] Quadro-resumo de participação preenchido (soma = 100%)
 
 ---
-
-
